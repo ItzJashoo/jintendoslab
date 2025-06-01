@@ -15,3 +15,8 @@ I believe I finished a power circuit for my device
 Also listed out the basic other parts, but haven't done much looking into them as in any other accessories I might need for those.
 
 **Total time spent: 2h**
+
+# June 1st: More Research, rethinking previous decisions
+So apparently there's something called SMD/SMT which is like basically small form factor but had to attach, now I switched over the prebuilt breakout boards from last update for like microchips and I was gonna make a single PCB for everything all custom (cuz I thought using breakout boards might be kinda cheating) but then apparently SMD stuff is really hard to solder. I think for the resistors/transistors/LEDs I could just use normal parts, but for the microchips I might have to get it done at the PCB factory or learn how to do it.
+Who knew it was gonna be this complicated. I'm referencing the Pi-Tin project that alexren mentioned, but I dunno, it's still so hard, cuz I want to make some changes.
+ **Total time spent: 2h**
