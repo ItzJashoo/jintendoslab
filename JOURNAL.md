@@ -22,4 +22,5 @@ Who knew it was gonna be this complicated. I'm referencing the Pi-Tin project th
 I replaced some of the things due to SMD being complicated, so if a through hole variant is available, I'll use that, but since for the charge circuit, most charge controllers are SMD, I'm using the Adafruit one again, and I'm using a powerboost for the voltage converter, as the powerboost also has a low battery light so I can use that instead of getting comparators myself and wiring that up. For the display connector, I got an Adafruit breakout board, I'm probably gonna solder things on.
 Also decided to use a cheaper speaker, it's the one used in Pi-Tin, it also is smaller, which I hope will fit better.
 Okay new update (still June 1st), began work on PCB, not quite sure what I'm doing, but basically because I'm using some breakout boards, I will have to solder wire, but the original design was for the raspberry pi to be soldered onto the headerpoints on the PCB like how Pi-Tin did it, but that means that the pi's headers wont be exposed, so I am creating headers that are on the PCB so I can still connect things with wires.
+
  **Total time spent: 3h**
