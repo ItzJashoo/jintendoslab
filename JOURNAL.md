@@ -30,3 +30,12 @@ ANyways here's some pics:
 Oh yeah I learned how to make custom symbols and I'm using NET labels to keep things organized.
 
  **Total time spent: 8h**
+
+ #June 2nd: Finished Schematic, Working on PCB 
+ Today I had a meeting with alexren about my project and some questions I had, so I have assurance that my voltage divider (hopefully) works, and I'm able to use that to (hopefully) not fry my Pi. I found alternate buttons again because I wanted to not make my own footprints and 3D models because I'm lazy and I don't wanna mess something up, and that also helped me cut my prices down, however Digikey is talking about Tariffs and I hope they're not TOOO much. Anyways I was confused cuz some of the official button schematics had 4 pins but the right angle button only had 2 pins on the schematic, so I ended up just on the footprint labeling the pads that are internally connected (since buttons contain 2 pairs of connector thingies) as the same thing, so for example, instead of 1 2 3 4 on the footprint I just put 1 1 2 2. Hopefully that works!!
+Anyways I also started making my actual PCB, but I do have some questions about mounting the RPI, as in the Pi-Tin thing they basically just soldered it, but their PCB has all the pins as SMD on layer B.mask, but in their footprint on their schematic everything was labeled as through holes on all copper layers, so I'm just hoping for the best, so I'm gonna stick to the through holes and hope that it works like that. 
+Here are some pictures:
+![image](https://github.com/user-attachments/assets/371e4578-ce07-427f-b1dc-a8e1df776698)
+![image](https://github.com/user-attachments/assets/b2e0fba2-8af2-41ff-a869-7d23d5031eb0)
+
+**Total time spent: 7h**
