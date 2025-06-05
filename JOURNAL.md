@@ -50,3 +50,12 @@ Also the text above the image is something I'm putting on the back silkscreen.
 ![image](https://github.com/user-attachments/assets/1ef929fb-7dd7-4b32-a635-f56bdce8944d)
 
 **Total time spent: 5h**
+
+#June 4th: Finished PCB, Ready to Begin on the CAD Model
+Today I tried to fix the errors from yesterday in which the ground fill wasn't working. After some time on Stackexchange, it turns out it's because I'm using a 2 layer board and so the pour is getting interrupted by traces and pins and stuff. So I had two options, 4 layer PCB ($$$) or use stitching vias and bascially move around the traces so I can use vias to connect the different parts. While this isn't ideal because it's kinda sketchy but it's better than manually rounting the ground and hoping it all fits, so I think it's a upgrade for the budget.
+Anyway's I put my Jintendo (Jason + Nintendo) logo on the back, here's some pics!
+![image](https://github.com/user-attachments/assets/5441ba1e-72d8-4efa-82f9-25167c93894b)
+![image](https://github.com/user-attachments/assets/97748030-a033-4c84-a70f-d21ecf72f82c)
+![image](https://github.com/user-attachments/assets/35ca61a9-0940-4901-8d4a-6e238483d89e)
+
+**Total time spent: 4h**
