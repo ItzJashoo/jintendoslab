@@ -59,3 +59,18 @@ Anyway's I put my Jintendo (Jason + Nintendo) logo on the back, here's some pics
 ![image](https://github.com/user-attachments/assets/35ca61a9-0940-4901-8d4a-6e238483d89e)
 
 **Total time spent: 4h**
+
+#June 5th: Fixed the Zones More, Started on CAD
+Someone replied to me about the fill zones and said even though DRC wasn't giving me any problems, they saw that there are still huge unconnected chunks, and so I used stitching vias, and now it doesn't look chunky anymore.
+![image](https://github.com/user-attachments/assets/fd5fc295-23bf-499b-883e-496a444cf66e)
+I'm pretty proud of how it looks and I'm gonna export it into Fusion before I break something haha.
+I downloaded the STEP files for all the parts that I could find, however something interesting that I found was that Adafruit tends to prefer giving Fritzing and EagleCad files over 3D files, and if you wanted the 3D file you could submit a issue in the CAD github page (and it's a github page that they don't mention at all unless you go to Digikey).
+Anyways I wasn't able to get the official model for the USB charging board and I couldn't find anyone who made one so I got the EagleCAD file, plopped it into Fusion and added the USB and JST ports myself (with models from the internet). 
+I then placed all the parts in Fusion where I made a mockup of how I was gonna put the parts. This took a while, as I constantly referred back to my schematic and making sure it's routed in an efficient way.
+I ended up having to put my battery off center as I had to fit the charger board, voltage booster, and amplifier in the bottom portion of the board. I wanted the console to be mainly bottom heavy because I felt like it would feel weird if the top of the device was like way heavier than the rest.
+It took a bit of working around but I think I have a basic design that would work. 
+![image](https://github.com/user-attachments/assets/3de50bae-7316-48b1-9cb9-be33a61d33bd)
+![image](https://github.com/user-attachments/assets/a2a30779-c4dd-4fb2-942a-685503c7c925)
+I also started on an outline so I can begin extruding the board parts.
+
+**Total time spent: 10h**
