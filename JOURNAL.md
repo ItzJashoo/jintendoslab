@@ -76,3 +76,15 @@ It took a bit of working around but I think I have a basic design that would wor
 I also started on an outline so I can begin extruding the board parts.
 
 **Total time spent: 10h**
+
+#June 6-7th: Moved some buttons on the PCB, finished layout of casing, and buttom layer, need to finish top portion and maybe button covers.
+Sorry guys I was a bit lazy yesterday to journal so I'm gonna combine it.
+What I basically did was first try different combinations to put the different boards in without making it too big or oddly shaped. I needed to separate the console into 3 parts vertically as I have 2 pairs of triggers on left and right sides, and because my console is vertically aligned, there can't be anything behind the triggers (or else you would have to shove your fingers through a small gap).
+I also realized my right set of buttons were off center, along with start select, I didn't notice this earlier because I knew the right side of the board was longer (with the power and special keys) but then I realized it looked weird if they weren't together. So I fixed that.
+Here's some pictures of the console now.
+![image](https://github.com/user-attachments/assets/4263298a-d3cc-4c68-bd03-6276aa6fa60e)
+![image](https://github.com/user-attachments/assets/936c14fa-7b44-4437-b5c7-de138ae1ba12)
+![image](https://github.com/user-attachments/assets/0475fca5-c308-4790-9c4a-9ffc80052134)
+And because I don't wanna spend too much money on screws and stuff, I'm using pegs for most of the boards that basically have a top part and a bottom part, and the top part will basically hold it in place as long as the to and bottom are secured, so I only need like 4 screws total.
+
+**Total time spent over 2 days: 12h**
