@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/7650e1f3-5d6c-4e08-9d86-3c9251b66b9c)---
 title: "Jintendo Slab"
 author: "Jason Zhang"
 description: "It's gonna be a slab shaped console (kinda like a 2DS cuz I'm too lazy to learn how to make hinges) that you can play retro games on, will have battery, powered by RPI Z2W"
@@ -88,3 +88,19 @@ Here's some pictures of the console now.
 And because I don't wanna spend too much money on screws and stuff, I'm using pegs for most of the boards that basically have a top part and a bottom part, and the top part will basically hold it in place as long as the to and bottom are secured, so I only need like 4 screws total.
 
 **Total time spent over 2 days: 12h**
+
+#June 8-9th: Finished Case, Ready to Submit
+Once again I was kinda tired, and I didn't really do much yesterday. But anyways I finished the case, there are some parts that could be better, but honestly Fusion was not working with me so this is the best I could do. For example, I wanted to have some button caps, but that was too complicated and I wasn't sure if the prints would look good, especially since I would need TPU for that. So I'm leaving the buttons exposed and some part of the PCB exposed. I tried to make a cover for the trigger buttons but the left side triggers, the I wasn't able to separate the face in Fusion, so I ended up doing something sketchy and using the face from the other side to cut out what I wanted. It's complicated haha.
+Anyways I made a lid for the thing and it looks decent. The way I'm gonna fasten the console together is with M2.5X25mm screws on the bottom (yes it's a big boy) with nuts, because I didn't know how to make actual threaded holes and I thought that might be too complicated and what if the threads don't line up or something, so basically it might look clanky, but I want it to work haha.
+The top will use smaller nuts as the display part is relatively thin, just look at these pictures.
+Here is an image of the two halves.
+![image](https://github.com/user-attachments/assets/0ef2a2ad-327d-4fb5-a085-2055bde2942d)
+And here's what it looks like rendered together.
+![image](https://github.com/user-attachments/assets/a4924b1b-a704-4121-a03f-a9f8fffc7548)
+![image](https://github.com/user-attachments/assets/4165f00a-34fa-4430-b13c-a984127049c2)
+I'm probably going to add a carved logo on the empty space of the shell.
+Text added!
+![image](https://github.com/user-attachments/assets/442239de-d9a1-4a9e-af27-8833ce5ace86)
+![image](https://github.com/user-attachments/assets/02dd081e-51e0-47b0-8712-141aabbf25af)
+
+**Total time spent over 2 days: 8h**
