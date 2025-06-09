@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/7650e1f3-5d6c-4e08-9d86-3c9251b66b9c)---
 title: "Jintendo Slab"
 author: "Jason Zhang"
 description: "It's gonna be a slab shaped console (kinda like a 2DS cuz I'm too lazy to learn how to make hinges) that you can play retro games on, will have battery, powered by RPI Z2W"
