@@ -3,6 +3,7 @@ Title: "Jintendo Slab"
 Author: "Jason Zhang"
 Description: "A slab shaped console (kinda like a 2DS) that you can play retro games on, will have battery, powered by RPI Z2W"
 Created on: "2025-05-31"
+Total hours: "50 hrs"
 ---
 # May 31th: Research on parts and making a plan!
 Spent time researching how I'm gonna make all this since I never made a PCB or anything before
