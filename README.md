@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/8a2da30a-99fa-4ba3-a478-963ce7967918)A project to make a 2DS like game console, first PCB project ever, going to have a battery and a Raspberry Pi 2 W.
+![image](https://github.com/user-attachments/assets/8a2da30a-99fa-4ba3-a478-963ce7967918)
+A project to make a 2DS like game console, first PCB project ever, going to have a battery and a Raspberry Pi 2 W.
 Will have a dPad, XYAB, Start Select, Power, Special, and 4 triggers.
 I made this as I don't have any retro consoles and I thought this is a fun way to learn CAD design and PCB design, to make something that I would use and would enjoy. Another reason why is that I saw this project on the starter projects section and I was like, hey, that's a great idea!
 Note: I did use breakout boards from Adafruit in this project, they can be found on their respective websites.
