@@ -6,7 +6,6 @@ Note: I did use breakout boards from Adafruit in this project, they can be found
 ![image](https://github.com/user-attachments/assets/6d742832-7bf9-4e79-8a66-8d23bf664293)
 
 ---
-
 Battery: "12.5"
 Charging Circuit: "12.5"
 Voltage Booster: "14.95"
@@ -25,5 +24,4 @@ Wire strippers: "6.95"
 PCBWay PCB: "0 (coupon)"
 Screws, nuts, washers set: "9.99"
 Total with shipping, tax, tariffs: "153.20"
-
 ---
