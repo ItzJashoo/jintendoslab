@@ -105,3 +105,12 @@ Text added!
 ![image](https://github.com/user-attachments/assets/02dd081e-51e0-47b0-8712-141aabbf25af)
 
 **Total time spent over 2 days: 8h**
+
+#Post Submission Edits!
+I found that Adafruit makes a powerboost combined with a charging circuit that's cheaper and will save me space and potential points of failure.
+I also used this as an opportunity to make the case look better.
+![image](https://github.com/user-attachments/assets/fbab43db-5e5b-4d05-aaef-ae3f633976ff)
+Now the hole in the middle isn't so gaping.
+As you can see the battery is now centered.
+![image](https://github.com/user-attachments/assets/92918e0b-39cf-4859-9891-0b37ab5ebee8)
+
