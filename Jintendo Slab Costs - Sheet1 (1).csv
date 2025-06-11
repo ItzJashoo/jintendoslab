@@ -1,0 +1,24 @@
+Battery ,link,12.5,Adafruit Total (with tax and shipping) minus coupon,,,TRUE
+Voltage booster and Charger,link,19.95,,,100.77,TRUE
+Amp,link,5.95,"Digikey Total (with tax, tariff and shipping)",,,TRUE
+Speaker,link,2.22,,,12.32,TRUE
+Start/Select/Special x4,link,0.84,Amazon Total (with tax),,,TRUE
+Trigger Button x4,link,1.48,,,10.99,TRUE
+Other buttons x8,link,0.8,Microcenter Total (with tax),,,TRUE
+Raspberry Pi 2W,link,14.99,,,37.61,TRUE
+2.8 Display with Control Board,link,29.95,,,,TRUE
+SD card and adapter,link,4.49,,,,TRUE
+Wires,link,2.95,,,,TRUE
+Wire strippers,link,6.95,,,,TRUE
+82 kohm resistor,link,0.1,,,,TRUE
+100 kohm resistor,link,0.1,,,,TRUE
+PCBWAY PCB COST,coupon + shipping,5.68,,,,TRUE
+"Screws, Nuts, and Washers",link,9.99,,,,TRUE
+Wick,link,3.5,,,,TRUE
+BEST 102C Soldering Iron,link,19.95,,,,TRUE
+63/67 Solder,link,8.99,,,,TRUE
+Flux Pen,link,7.99,,,,TRUE
+Stand and Sponge,link,5.99,,,,TRUE
+Total cost of components + soldering stuff,161.69,,,,,
+"Total budget, 150-5.68 (PCB) + 18 (Solder grant)",,,,,,
+162.32,,,,,,
