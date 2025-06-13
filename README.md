@@ -9,6 +9,8 @@ Note: I did use breakout boards from Adafruit in this project, they can be found
 ![image](https://github.com/user-attachments/assets/520eb406-04bd-4ffa-aa19-a33bc1597214)
 ![image](https://github.com/user-attachments/assets/6d742832-7bf9-4e79-8a66-8d23bf664293)
 
+THE BOM BELOW IS OUTDATED, PRESS THIS LINK WITH THE LATEST VERSION WITH UP TO DATE COSTS AND PART LINKS: https://docs.google.com/spreadsheets/d/1hn2z8ekfqbGUfXvgOQFQ-BLUxkavOTLEDDJ-F8h76a0/edit?gid=0#gid=0
+
 | Item                               | Cost (USD)      |
 |------------------------------------|-----------------|
 | Battery                            | $12.50          |
