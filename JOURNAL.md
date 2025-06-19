@@ -123,7 +123,7 @@ I watched a few tutorials and I remembered one saying to first put some solder o
 Next I did continuity checks and resistance checks to make sure I didn't kill my speaker. ChatGPT told me to use 200Ohm resistance and I was getting 0 ohms resistance and it kept telling me that my speaker coil might be broken, which I believed of course haha, anyways after a few messages it tells me to use 200kohms instead, and when I did, I got 6 ohms between the positive and negative pads, which is to be expected, meaning I didn't short anything. So ChatGPT then told me to use like a AAA or AA or button cell battery to test whether my speaker works, and safe to say, it does! I've attached images of the solder work, and a video showing the speaker making clicking noises when hooked up to current (I made sure to test the resistance after to make sure the battery didn't blow anything up).
 ![IMG_6632](https://github.com/user-attachments/assets/42c6b6ca-a4b0-4ba5-8c17-2373d0cced6f)
 ![IMG_6633](https://github.com/user-attachments/assets/d18b4d38-50ed-481c-90a6-3cb63bd7ed17)
-![IMG_6636](https://github.com/user-attachments/assets/4928d47d-ba2e-4a49-85c5-def1c9e34723)
+https://github.com/user-attachments/assets/4928d47d-ba2e-4a49-85c5-def1c9e34723
 
 **Total time spent: 2h**
 
