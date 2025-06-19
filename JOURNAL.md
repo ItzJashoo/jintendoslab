@@ -114,3 +114,16 @@ Now the hole in the middle isn't so gaping.
 As you can see the battery is now centered.
 ![image](https://github.com/user-attachments/assets/92918e0b-39cf-4859-9891-0b37ab5ebee8)
 
+#Build Journal!
+
+#JUne 19th: First time soldering! Soldered Wires to Speaker
+Most of my parts are here except for my 3D printed case and my PCB, which tbh are the most important parts.
+Anyways, I decided to try my hand at soldering, so I decided to solder wires to the pads on my speaker.
+I watched a few tutorials and I remembered one saying to first put some solder on the pad, and then some on the wire, so that way the join really easily. It worked for the first wire and that looked perfect. However the second one was a different story. I made a big blob (it still should work, wasn't a cold joint, just ugly), so I tried to use wick, but the wick I bought was too thin and I didn't know the wick doesn't come prefluxed, so I wasted some time on that haha. Anyways while trying to remove solder I melted a bit of the plastic housing of the speaker but it shouldn't really affect it. I made the joint look better, albiet still kind of ugly.
+Next I did continuity checks and resistance checks to make sure I didn't kill my speaker. ChatGPT told me to use 200Ohm resistance and I was getting 0 ohms resistance and it kept telling me that my speaker coil might be broken, which I believed of course haha, anyways after a few messages it tells me to use 200kohms instead, and when I did, I got 6 ohms between the positive and negative pads, which is to be expected, meaning I didn't short anything. So ChatGPT then told me to use like a AAA or AA or button cell battery to test whether my speaker works, and safe to say, it does! I've attached images of the solder work, and a video showing the speaker making clicking noises when hooked up to current (I made sure to test the resistance after to make sure the battery didn't blow anything up).
+![IMG_6632](https://github.com/user-attachments/assets/42c6b6ca-a4b0-4ba5-8c17-2373d0cced6f)
+![IMG_6633](https://github.com/user-attachments/assets/d18b4d38-50ed-481c-90a6-3cb63bd7ed17)
+![IMG_6636](https://github.com/user-attachments/assets/4928d47d-ba2e-4a49-85c5-def1c9e34723)
+
+**Total time spent: 2h**
+
