@@ -1,4 +1,4 @@
----
+![IMG_6650](https://github.com/user-attachments/assets/5540c5e4-51b7-438f-a84f-d328fc7401f2)---
 Title: "Jintendo Slab"
 Author: "Jason Zhang"
 Description: "A slab shaped console (kinda like a 2DS) that you can play retro games on, will have battery, powered by RPI Z2W"
@@ -116,7 +116,7 @@ As you can see the battery is now centered.
 
 #Build Journal!
 
-#JUne 19th: First time soldering! Soldered Wires to Speaker
+#June 19th: First time soldering! Soldered Wires to Speaker
 Most of my parts are here except for my 3D printed case and my PCB, which tbh are the most important parts.
 Anyways, I decided to try my hand at soldering, so I decided to solder wires to the pads on my speaker.
 I watched a few tutorials and I remembered one saying to first put some solder on the pad, and then some on the wire, so that way the join really easily. It worked for the first wire and that looked perfect. However the second one was a different story. I made a big blob (it still should work, wasn't a cold joint, just ugly), so I tried to use wick, but the wick I bought was too thin and I didn't know the wick doesn't come prefluxed, so I wasted some time on that haha. Anyways while trying to remove solder I melted a bit of the plastic housing of the speaker but it shouldn't really affect it. I made the joint look better, albiet still kind of ugly.
@@ -127,3 +127,13 @@ https://github.com/user-attachments/assets/4928d47d-ba2e-4a49-85c5-def1c9e34723
 
 **Total time spent: 2h**
 
+#June 20th: Still waiting on the PCB, soldered some things
+So todaoy I wanted to solder the speaker to the amp, but Adafruit somehow soldered a terminal block at the end, even though they said it was gonna come unsoldered, and I didn't want the terminal block because it's big and chunky. So I tried using my thin thin wick to desolder it, and this time I used flux. However, while I did wick some away, the block was not budging. There was no visible solder left, so I got pliers and uhh kind of yanked it out. It came out actually quite easily after one side came out, nothing looked damaged, so I think it's fine. I then soldered my speaker wires making sure the polarity is right (-) to (-) and (+) to (+), and then I used multimeter to test it for continuity. The the speaker outputs + and - have some sort of connection to ground on the amp but have no continuity (they have around 500ohms of resistance) which is GOOD, as this means I didn't short anything and I didn't destroy anything yanking the terminal block out.
+I also soldered the jumpers on the display as in order to use the SPI interface I needed to do that. I did this as a break from trying to yank the terminal block, haha, as I knew it was way easier to do than trying to yank out something. Anyways I thought it looked really good (the solder).
+And below are the pictures in no specific order haha.
+![IMG_6650](https://github.com/user-attachments/assets/92c77db3-3238-4b33-aa64-318f76fb765e)
+![IMG_6651](https://github.com/user-attachments/assets/72fc5bf3-0d8b-44b3-b806-962fa94fcd35)
+![IMG_6652](https://github.com/user-attachments/assets/48e16981-b63e-4682-9445-f4dc18df19ca)
+![IMG_6653](https://github.com/user-attachments/assets/e1c4543c-a8d6-4fc8-98d8-c62e8db4788b)
+
+**Total time spent: 2h**
