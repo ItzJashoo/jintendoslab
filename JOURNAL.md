@@ -137,3 +137,14 @@ And below are the pictures in no specific order haha.
 ![IMG_6653](https://github.com/user-attachments/assets/e1c4543c-a8d6-4fc8-98d8-c62e8db4788b)
 
 **Total time spent: 2h**
+
+#June 21-22th: Got 3D Prints, Waiting for PCB, Test Fit, Soldered
+So I got my 3D prints on the 21th (I just went to his house cuz we lived in the same area) and I was able to in a way test fit the partst hat I had. I realized that my original idea with the pegs wasn't really gonna work and it would be way better if I hot glued or glued my PCB and stuff to the casing for more stability, especially for things like my charging port, because the pegs will snap when plugging it in. 
+Anyways I soldered the wires to my charger board. I also resoldered the joints on my speaker as one of them broke off.
+I've attached images of the wires I soldered to the charging circuit.
+![IMG_6677](https://github.com/user-attachments/assets/693440ab-6003-4833-ade3-1e652474dc3d)
+![IMG_6675](https://github.com/user-attachments/assets/e19ed911-23b6-4f73-aaad-45160975a9f6)
+And here's the case.
+![IMG_6678](https://github.com/user-attachments/assets/8210ba12-0fbe-4786-8de7-0a5eb30c4f3b)
+
+**Total time spent over two days: 2h**
