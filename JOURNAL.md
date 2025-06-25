@@ -148,3 +148,13 @@ And here's the case.
 ![IMG_6678](https://github.com/user-attachments/assets/8210ba12-0fbe-4786-8de7-0a5eb30c4f3b)
 
 **Total time spent over two days: 2h**
+
+#June 23-24th: Got PCB, having issues, RMAed a resistor
+So my PCB arrived on the 23rd, and I got to work trying to solder the pi to the pcb. The Pi-Tin guide told me to use a binder clip or clamp to hold the PCB down and then solder the pads. However I couldn't findn one so I used a clothespin. It was janky but I think it got it done. However, when soldering the trace for the 5V, I wasn't getting any continuity. I thought the trace was dead. But then I realized it was because the connection between the Pi and the PCB probably wasn't good. So after a few reflow attempts, it worked. I soldered my power board to the PCB as well. However as I was adjusting the board the soldermask of the pad snapped and was lifting at the trace. So I instead just wired a wire directly to the Pi to power it from the board (bypassing the trace) and use some electrical tape to cover it up. Then I tried testing the display, as that will tell me if my Pi is working. It took a few reflow attempts to make sure I'm getting continuity and it works. However I don't have an SD card reader, so I did some weird workaround where I used my old kindle fire and installed some random android app to flash a firmware, but I'm getting a white screen. I'm not sure if it's because I wired my display wrong or it's because the random app doesn't work. Anyways all the display cables do have continuity so I'm not too sure.
+I also wired the trigger buttons but they probably don't have continuity and I should probably test them later. 
+My display cables look like some type of bomb haha. Anyways the resistor for the voltage divider is broken (I didn't break it), and it's the resistor it self (the 100k ohm one) as there's continuity to the leads individually but not between the leads. Digikey was nice enough to send me a new one that I'm waiting for.
+Anyways hopefully tomorrow I'm able to find a way to flash a working SD image.
+![IMG_6692](https://github.com/user-attachments/assets/552b211a-0f6b-4ede-ab15-ef2310215fc8)
+![IMG_6693](https://github.com/user-attachments/assets/d5a294e9-cb3c-4f77-b5be-01ff971db574)
+
+**Total time spent over 2 days: 8h**
